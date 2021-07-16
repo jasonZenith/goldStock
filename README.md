@@ -1,5 +1,10 @@
 # GoldPlan
 
-#### 此仓库用于对金融的数据分析（股票、证券）
+### 此仓库用于对金融证券的数据分析（股票、证券）
 
-python
+## 数据获取
+
+ [tushare大数据社区] (https://tushare.pro/register?reg=396328)
+
+
+>python
